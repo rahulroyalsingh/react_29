@@ -4,6 +4,9 @@ import Table from 'react-bootstrap/Table';
 function ResponsiveBreakpointsExample() {
   return (
     <div>
+      <h1>
+        Nest list with Table
+      </h1>
       <Table responsive="sm">
         <thead>
           <tr>
